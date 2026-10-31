@@ -8,7 +8,7 @@ Aplikasi mobile Flutter untuk menampilkan produk dari DummyJSON API.
 - Pencarian produk
 
 ## Video Penjelasan dan Demo
-https://youtu.be/ISI_LINK_VIDEO_ANDA
+
 
 ## Cara Menjalankan
 flutter pub get
